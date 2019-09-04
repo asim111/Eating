@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignIn"
+    android:background="@drawable/adminpanelback">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:orientation="horizontal"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/image_layout">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:layout_marginLeft="105dp"
+            android:background="@drawable/logo_eat_it" />
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_below="@+id/image_layout">
+    <EditText
+        android:id="@+id/login_phone"
+        android:layout_width="330dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:inputType="number"
+        android:alpha="0.9"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:padding="8dp"
+        android:text="03009040664"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_design"
+        android:hint="Type your phone number"
+        android:textColorHint="@color/white"/>
+    <EditText
+        android:id="@+id/login_password"
+        android:layout_width="330dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:alpha="0.9"
+        android:textSize="20sp"
+        android:text="comcom12"
+        android:inputType="textPassword"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_design"
+        android:padding="8dp"
+        android:hint="Type your password"
+        android:textColorHint="@color/white"/>
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="Sign in"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:alpha="0.9"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="160dp"
+        android:background="@drawable/custom_design"
+        android:textColor="@color/white"
+        android:layout_marginLeft="30dp" />
+    />
+
+</LinearLayout>
+    <TextView
+        android:id="@+id/singup_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Don't have an account?sign up"
+        android:textColor="@color/white"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="130dp"
+        android:textSize="20sp"
+        />
+
+</RelativeLayout>

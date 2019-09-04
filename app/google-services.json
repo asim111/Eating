@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "185820981052",
+    "firebase_url": "https://login-a4752.firebaseio.com",
+    "project_id": "login-a4752",
+    "storage_bucket": "login-a4752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185820981052:android:29adecb5b3e9b57d",
+        "android_client_info": {
+          "package_name": "com.example.asim.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185820981052-okvqf2ajg8fl55jto7qv9vkalh74mbvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asim.login",
+            "certificate_hash": "c2fd7327e53781aaefdddf1f57e3e9953f2bb42f"
+          }
+        },
+        {
+          "client_id": "185820981052-k9qi890po0dm4bhr6r3pmmnmpcp5crep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asim.login",
+            "certificate_hash": "25e186efe96b7d3fa78d8763a3a20ddca2451d07"
+          }
+        },
+        {
+          "client_id": "185820981052-urgndl5qr3v7e43r7enbvlmaqfl34qos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asim.login",
+            "certificate_hash": "713bf0cfc20c2f84143cefb820b4b6889ab9f858"
+          }
+        },
+        {
+          "client_id": "185820981052-3uqscv16q3lr27r2s85rst2uvv74mvro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26gaNRHM5VfNFI1jOwy--gRum4QNE8b4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185820981052-3uqscv16q3lr27r2s85rst2uvv74mvro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185820981052:android:f1d567c33bcaa6e8",
+        "android_client_info": {
+          "package_name": "com.example.asimkhan.eating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185820981052-353cacmcp2372553odvd79p3jg7ien6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asimkhan.eating",
+            "certificate_hash": "cbf8f9c780ce6f4f2c4d8919d2e65b9e94927ff3"
+          }
+        },
+        {
+          "client_id": "185820981052-3uqscv16q3lr27r2s85rst2uvv74mvro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26gaNRHM5VfNFI1jOwy--gRum4QNE8b4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185820981052-3uqscv16q3lr27r2s85rst2uvv74mvro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

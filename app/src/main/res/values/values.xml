@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="foodorderarray">
+        <item>Productid</item>
+        <item>Productname</item>
+        <item>Quantity</item>
+        <item>Price</item>
+        <item>Discount</item>
+    </string-array>
+</resources>
